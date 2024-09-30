@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,13 +41,14 @@
 
     <!-- Introduction paragraph -->
     <div class="content">
-        <p>Protected areas play a crucial role in maintaining biodiversity, offering a sanctuary for ecosystems and species. These areas are vital in combating environmental degradation and conserving natural habitats globally.</p>
+    
+        <p>Protected areas are crucial for the conservation of biodiversity, the preservation of ecosystems, and the protection of endangered species. In today's rapidly changing world, they play a vital role in combating climate change, protecting water resources, and ensuring sustainable livelihoods. The following websites provide information on various issues and strategies regarding protected areas globally.</p>
 
         <!-- Bulleted list of hyperlinks with images -->
         <ul>
             <li>
                 <a href="https://www.iucn.org/theme/protected-areas" target="_blank">
-                    <img src="iucn-logo.jpg" alt="IUCN Logo"> IUCN Protected Areas
+                    <img src="https://tse1.mm.bing.net/th?id=OIP.TrAbbR3oGA_Ban6kV98t0AHaE6&pid=Api&P=0&h=180" alt="IUCN Logo"> IUCN Protected Areas
                 </a>
             </li>
             <li>
