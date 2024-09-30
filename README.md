@@ -8,21 +8,29 @@
         body {
             font-family: Verdana, sans-serif;
             background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
             text-align: center;
-            margin: 1;
-            padding: 1;
         }
         .banner {
+            position: relative;
+            width: 100%;
+            height: 400px; /* Adjust the height as needed */
             background-color: #52983a;
-            padding: 20px;
         }
         .banner img {
             width: 100%;
-            height: auto;
+            height: 100%;
+            object-fit: cover;
         }
-        h1 {
-            font-size: 4em;
-            margin: 10px 0;
+        .banner h1 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 3em;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
         }
         .content {
             margin: 20px auto;
@@ -52,10 +60,10 @@
     </style>
 </head>
 <body>
-    <!-- Banner with title and image -->
+    <!-- Banner with image and overlayed title -->
     <div class="banner">
-        <h1>Websites about Protected Areas Issues</h1>
         <img src="https://c.wallhere.com/photos/8f/a2/animals_lake_trees-61915.jpg!d" alt="Banner image of protected areas">
+        <h1>Websites about Protected Areas Issues</h1>
     </div>
 
     <!-- Introduction paragraph -->
@@ -99,12 +107,11 @@
 
     <!-- Copyright and assignment info -->
     <div class="copyright">
-        &copy; 2024 Ayesha Fatima | Student Number: 301452624 | Assignment 2 - Protected Areas 
-        Image and Information Credits: IUCN, WWF, National Geographic, UNEP.
+        &copy; 2024 Ayesha Fatima | Student Number: 301452624 | Assignment 2 - Protected Areas
+        Image and Information credits: IUCN, WWF, National Geographic, UNEP.
     </div>
 
     <!-- Comment with student info -->
     <!-- Ayesha Fatima - Student# 300XXXXXX -->
 </body>
 </html>
-
