@@ -15,8 +15,7 @@
         .banner {
             position: relative;
             width: 100%;
-            height: 400px; /* Adjust the height as needed */
-            background-color: #52983a;
+            height: 400px;
         }
         .banner img {
             width: 100%;
@@ -31,31 +30,6 @@
             color: white;
             font-size: 3em;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-        }
-        .content {
-            margin: 20px auto;
-            width: 80%;
-            text-align: left;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin: 15px 0;
-            font-size: 1.2em;
-        }
-        ul li img {
-            width: 200px;
-            height: auto;
-            vertical-align: middle;
-            margin-right: 10px;
-        }
-        .copyright {
-            font-size: small;
-            margin-top: 20px;
-            background-color: #e0f7fa;
-            padding: 10px;
         }
     </style>
 </head>
