@@ -9,11 +9,11 @@
             font-family: Verdana, sans-serif;
             background-color: #f0f8ff;
             text-align: center;
-            margin: 0;
-            padding: 0;
+            margin: 1;
+            padding: 1;
         }
         .banner {
-            background-color: #e0f7fa;
+            background-color: #52983a;
             padding: 20px;
         }
         .banner img {
@@ -21,7 +21,7 @@
             height: auto;
         }
         h1 {
-            font-size: 2.5em;
+            font-size: 4em;
             margin: 10px 0;
         }
         .content {
@@ -55,7 +55,7 @@
     <!-- Banner with title and image -->
     <div class="banner">
         <h1>Websites about Protected Areas Issues</h1>
-        <img src="banner-image.jpg" alt="Banner image of protected areas">
+        <img src="https://c.wallhere.com/photos/8f/a2/animals_lake_trees-61915.jpg!d" alt="Banner image of protected areas">
     </div>
 
     <!-- Introduction paragraph -->
@@ -99,7 +99,8 @@
 
     <!-- Copyright and assignment info -->
     <div class="copyright">
-        &copy; 2024 Ayesha Fatima, COMP213 Assignment 2. Image credits: IUCN, WWF, National Geographic, UNEP.
+        &copy; 2024 Ayesha Fatima | Student Number: 301452624 | Assignment 2 - Protected Areas 
+        Image and Information Credits: IUCN, WWF, National Geographic, UNEP.
     </div>
 
     <!-- Comment with student info -->
