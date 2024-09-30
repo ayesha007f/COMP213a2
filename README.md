@@ -18,7 +18,7 @@
             overflow: hidden;
         }
         .banner img {
-            width: 100%;
+            width: 80%;
             height: auto;
         }
         .banner h1 {
@@ -27,8 +27,8 @@
             left: 50%;
             transform: translate(-50%, -50%);
             color: white;
-            font-size: 3em;
-            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+            font-size: 6em;
+            text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.7);
         }
         /* Link container with images */
         .link-container {
