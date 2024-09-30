@@ -81,10 +81,10 @@
         <img src="https://wallpaperaccess.com/full/4190433.jpg" alt="UNEP Logo"> UNEP Protected Areas
     </a>
     <a href="https://www.conservation.org/priorities/protected-areas" target="_blank">
-        <img src="https://wallpaperaccess.com/full/852373.jpg" alt="Conservation International Logo"> Conservation International
+        <img src="http://1.bp.blogspot.com/-wi1VnaWxeK0/Ubarhy9yNjI/AAAAAAAAAVw/UjsY7VHp1x0/s1600/14.jpg" alt="Conservation International Logo"> Conservation International
     </a>
     <a href="https://www.nature.org/en-us/what-we-do/our-insights/protected-areas" target="_blank">
-        <img src="https://wallpaperaccess.com/full/775987.jpg" alt="Nature Conservancy Logo"> The Nature Conservancy
+        <img src="http://www.publicdomainpictures.net/pictures/60000/velka/bird-1382034603Euc.jpg" alt="Nature Conservancy Logo"> The Nature Conservancy
     </a>
 </div>
 
