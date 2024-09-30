@@ -48,14 +48,14 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 20px; /* Space between each link */
+        gap: 10px; /* Space between each link */
     }
     .link-container a {
         text-decoration: none;
         color: black;
-        font-size: 1.2em;
+        font-size: 2em;
         text-align: center;
-        width: 30%; /* Ensure consistent width for each link */
+        width: 40%; /* Ensure consistent width for each link */
         box-sizing: border-box; /* Prevent padding from affecting width */
     }
     .link-container img {
@@ -91,7 +91,7 @@
 
     <!-- Copyright and assignment info -->
     <div class="copyright">
-        &copy; 2024 Ayesha Fatima | Student Number: 301452624 | Assignment 2 - Protected Areas
+        &copy; 2024 Ayesha Fatima | Student Number: 301452624 | Assignment 2 - Protected Areas                                                                            
         Image and Information credits: IUCN, WWF, National Geographic, UNEP.
     </div>
 
