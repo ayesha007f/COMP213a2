@@ -3,26 +3,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Websites about Protected Areas Issues</title>
-    <style>
+   <style>
         body {
             font-family: Verdana, sans-serif;
-            background-color: #f0f8ff;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
             text-align: center;
         }
+        /* Banner Image with Heading */
         .banner {
             position: relative;
-            width: 100%;
-            height: 400px;
+            width: 100vw;
+            overflow: hidden;
         }
         .banner img {
-    width: 100vw; /* Full viewport width */
-    height: auto; /* Keep aspect ratio */
-    margin: 0; /* Remove any default margins */
-    padding: 0; /* Remove any default padding */
-}
-
+            width: 100%;
+            height: auto;
+        }
         .banner h1 {
             position: absolute;
             top: 50%;
@@ -31,6 +29,33 @@
             color: white;
             font-size: 3em;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+        /* Link container with images */
+        .link-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .link-container a {
+            text-decoration: none;
+            color: black;
+            font-size: 1.2em;
+            width: 30%; /* Ensures three items per row */
+            text-align: center;
+            box-sizing: border-box;
+        }
+        .link-container img {
+            width: 100%;
+            height: auto;
+            max-width: 250px;
+            margin-bottom: 10px;
+        }
+        /* Footer with copyright info */
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
         }
     </style>
 </head>
