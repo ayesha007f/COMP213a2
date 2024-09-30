@@ -32,7 +32,7 @@
     <!-- Banner with title and image -->
     <div class="banner">
         <h3>Websites about Protected Areas Issues</h3>
-        <img src="banner-image.jpg" alt="Banner image">
+        <img src="https://get.wallhere.com/photo/trees-landscape-forest-animals-lake-nature-national-park-valley-wilderness-Alps-plateau-ridge-mountain-grassland-pasture-meadow-tarn-habitat-natural-environment-mountainous-landforms-geographical-feature-ecosystem-mountain-range-61915.jpg" alt="Banner image">
     </div>
 
     <!-- Introduction paragraph -->
