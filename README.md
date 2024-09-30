@@ -48,12 +48,12 @@
         <ul>
             <li>
                 <a href="https://www.iucn.org/theme/protected-areas" target="_blank">
-                    <img src="https://tse1.mm.bing.net/th?id=OIP.TrAbbR3oGA_Ban6kV98t0AHaE6&pid=Api&P=0&h=180" alt="IUCN Logo"> IUCN Protected Areas
+                    <img src="https://wallpapercave.com/wp/ENozMYj.jpg" alt="IUCN Logo"> IUCN Protected Areas
                 </a>
             </li>
             <li>
                 <a href="https://www.worldwildlife.org/initiatives/protected-areas" target="_blank">
-                    <img src="wwf-logo.jpg" alt="WWF Logo"> World Wildlife Fund - Protected Areas
+                    <img src="https://tse3.mm.bing.net/th?id=OIP.Pixq9eppCBGpifpmTPXgFwAAAA&pid=Api&P=0&h=180" alt="WWF Logo"> World Wildlife Fund - Protected Areas
                 </a>
             </li>
             <li>
