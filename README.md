@@ -17,10 +17,12 @@
             height: 400px;
         }
         .banner img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
+    width: 100vw; /* Full viewport width */
+    height: auto; /* Keep aspect ratio */
+    margin: 0; /* Remove any default margins */
+    padding: 0; /* Remove any default padding */
+}
+
         .banner h1 {
             position: absolute;
             top: 50%;
@@ -44,24 +46,28 @@
     
         <p>Protected areas are crucial for the conservation of biodiversity, the preservation of ecosystems, and the protection of endangered species. In today's rapidly changing world, they play a vital role in combating climate change, protecting water resources, and ensuring sustainable livelihoods. The following websites provide information on various issues and strategies regarding protected areas globally.</p>
 <style>
-  .link-container {
+  <style>
+    .link-container {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 10px; /* Space between each link */
+        gap: 20px; /* Space between each link */
     }
     .link-container a {
         text-decoration: none;
         color: black;
-        font-size: 2em;
+        font-size: 1.2em;
         text-align: center;
-        width: 40%; /* Ensure consistent width for each link */
+        width: 30%; /* Ensure consistent width for each link */
+        display: flex;
+        flex-direction: column; /* Align link text under the image */
+        align-items: center; /* Center align text and image */
         box-sizing: border-box; /* Prevent padding from affecting width */
     }
     .link-container img {
-        width: 150px; /* Fixed width for images */
-        height: 150px; /* Fixed height for images */
-        object-fit: contain; /* Ensure images maintain aspect ratio */
+        width: 250px; /* Increased size of the images */
+        height: auto;
+        object-fit: contain;
         margin-bottom: 10px;
     }
 </style>
