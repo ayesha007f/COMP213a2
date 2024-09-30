@@ -14,12 +14,12 @@
         /* Banner Image with Heading */
         .banner {
             position: relative;
-            width: 100vw;
+            width: 80vw;
             overflow: hidden;
         }
         .banner img {
             width: 80%;
-            height: auto;
+            height: 70%;
         }
         .banner h1 {
             position: absolute;
