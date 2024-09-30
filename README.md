@@ -1,4 +1,3 @@
-# COMP213a2
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +7,11 @@
     <style>
         body {
             font-family: Verdana, sans-serif;
-            background-color: #e8f4f8; /* Light background */
+            background-color: #f0f8ff;
             text-align: center;
         }
         .banner {
-            background-color: #b3d9ff;
+            background-color: #e0f7fa;
             padding: 10px;
         }
         .banner img {
@@ -24,36 +23,36 @@
             text-align: left;
         }
         .copyright {
-            font-size: 0.8em;
+            font-size: small;
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <!-- Banner with image and title -->
+    <!-- Banner with title and image -->
     <div class="banner">
         <h3>Websites about Protected Areas Issues</h3>
-        <img src="protected-area.jpg" alt="Protected areas banner">
+        <img src="banner-image.jpg" alt="Banner image">
     </div>
 
     <!-- Introduction paragraph -->
     <div class="content">
-        <p>Protected areas play a vital role in biodiversity conservation, offering essential spaces where ecosystems can thrive without human interference. They are increasingly important in the face of environmental degradation and climate change.</p>
+        <p>Protected areas are essential for preserving biodiversity, ecosystems, and natural habitats. They offer a refuge for wildlife and help mitigate the effects of climate change, making them critical in the modern world.</p>
 
         <!-- Bulleted list of hyperlinks -->
         <ul>
             <li><a href="https://www.iucn.org/theme/protected-areas" target="_blank">IUCN Protected Areas</a></li>
-            <li><a href="https://www.worldwildlife.org/initiatives/protected-areas" target="_blank">World Wildlife Fund - Protected Areas</a></li>
+            <li><a href="https://www.worldwildlife.org/initiatives/protected-areas" target="_blank">World Wildlife Fund</a></li>
             <li><a href="https://www.nationalgeographic.com/environment/protected-areas" target="_blank">National Geographic</a></li>
             <li><a href="https://www.unep.org/explore-topics/protected-areas" target="_blank">UNEP Protected Areas</a></li>
             <li><a href="https://www.conservation.org/priorities/protected-areas" target="_blank">Conservation International</a></li>
-            <li><a href="https://www.nature.org/en-us/what-we-do/our-insights/protected-areas" target="_blank">Nature Conservancy</a></li>
+            <li><a href="https://www.nature.org/en-us/what-we-do/our-insights/protected-areas" target="_blank">The Nature Conservancy</a></li>
         </ul>
     </div>
 
-    <!-- Copyright and assignment info -->
+    <!-- Copyright -->
     <div class="copyright">
-        &copy; 2024 Ayesha Fatima, COMP213 Assignment 2. Image credits: IUCN, WWF, National Geographic.
+        &copy; 2024 Ayesha Fatima, COMP213 Assignment 2. Image credits: IUCN, National Geographic, WWF.
     </div>
 
     <!-- Comment with student info -->
